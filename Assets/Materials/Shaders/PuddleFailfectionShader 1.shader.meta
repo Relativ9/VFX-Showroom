@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 791da2f2254d2f4419cf0f8607b041c1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _DisplaceMap: {fileID: 11700000, guid: a38611d3873282a4fbd466d267c5959f, type: 2}
+  - _NormalMap: {fileID: 11700000, guid: 221ae3b31ad47174bac3e157dfc23e46, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
